@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Adonet-SQLServerDemo</id>
+    <version>1.0.0</version>
+    <authors>Adonet-SQLServerDemo</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="System.Data.SqlClient" version="4.8.5" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\DEVAMORE\source\repos\Adonet-SQLServerDemo\Adonet-SQLServerDemo\bin\Debug\netcoreapp3.1\Adonet-SQLServerDemo.runtimeconfig.json" target="lib\netcoreapp3.1\Adonet-SQLServerDemo.runtimeconfig.json" />
+    <file src="C:\Users\DEVAMORE\source\repos\Adonet-SQLServerDemo\Adonet-SQLServerDemo\bin\Debug\netcoreapp3.1\Adonet-SQLServerDemo.dll" target="lib\netcoreapp3.1\Adonet-SQLServerDemo.dll" />
+  </files>
+</package>

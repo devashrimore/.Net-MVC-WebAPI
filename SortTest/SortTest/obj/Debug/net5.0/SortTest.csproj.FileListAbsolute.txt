@@ -1,0 +1,16 @@
+C:\Users\DEVAMORE\source\repos\SortTest\SortTest\bin\Debug\net5.0\SortTest.exe
+C:\Users\DEVAMORE\source\repos\SortTest\SortTest\bin\Debug\net5.0\SortTest.deps.json
+C:\Users\DEVAMORE\source\repos\SortTest\SortTest\bin\Debug\net5.0\SortTest.runtimeconfig.json
+C:\Users\DEVAMORE\source\repos\SortTest\SortTest\bin\Debug\net5.0\SortTest.runtimeconfig.dev.json
+C:\Users\DEVAMORE\source\repos\SortTest\SortTest\bin\Debug\net5.0\SortTest.dll
+C:\Users\DEVAMORE\source\repos\SortTest\SortTest\bin\Debug\net5.0\ref\SortTest.dll
+C:\Users\DEVAMORE\source\repos\SortTest\SortTest\bin\Debug\net5.0\SortTest.pdb
+C:\Users\DEVAMORE\source\repos\SortTest\SortTest\obj\Debug\net5.0\SortTest.csproj.AssemblyReference.cache
+C:\Users\DEVAMORE\source\repos\SortTest\SortTest\obj\Debug\net5.0\SortTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEVAMORE\source\repos\SortTest\SortTest\obj\Debug\net5.0\SortTest.AssemblyInfoInputs.cache
+C:\Users\DEVAMORE\source\repos\SortTest\SortTest\obj\Debug\net5.0\SortTest.AssemblyInfo.cs
+C:\Users\DEVAMORE\source\repos\SortTest\SortTest\obj\Debug\net5.0\SortTest.csproj.CoreCompileInputs.cache
+C:\Users\DEVAMORE\source\repos\SortTest\SortTest\obj\Debug\net5.0\SortTest.dll
+C:\Users\DEVAMORE\source\repos\SortTest\SortTest\obj\Debug\net5.0\ref\SortTest.dll
+C:\Users\DEVAMORE\source\repos\SortTest\SortTest\obj\Debug\net5.0\SortTest.pdb
+C:\Users\DEVAMORE\source\repos\SortTest\SortTest\obj\Debug\net5.0\SortTest.genruntimeconfig.cache
